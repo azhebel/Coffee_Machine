@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: // write your class here
+  learner_created: false
+- name: src/hello.csv
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2944
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2944">JetBrains
+    Academy</a></html>
+  time: Fri, 18 Sep 2020 07:53:59 UTC
+record: -1
